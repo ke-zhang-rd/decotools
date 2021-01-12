@@ -2,8 +2,10 @@
 Usage
 =====
 
-Start by importing decotools.
+Start by importing ``decotools``.
 
 .. code-block:: python
 
-    import decotools
+    from decotools import byfunc
+
+.. autofunction:: decotools.byfunc
